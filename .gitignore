@@ -1,0 +1,12 @@
+# Archive files
+*.jar
+*.zip
+
+# Project files
+*.classpath
+*.project
+
+# Other stuff
+bin/
+.settings/
+*.bat
